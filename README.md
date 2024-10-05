@@ -287,4 +287,5 @@ If you'd like to load a `.pb` and `.meta` file when using `return_predict()` you
 
 That's all.
 #   H e l m e t - D e t e c t i o n - S a m p l e  
+ #   H e l m e t - D e t e c t i o n - S a m p l e  
  
